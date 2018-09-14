@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css?family=Carter+One');
+
+* {
+ margin: 0;
+ padding: 0;
+ box-sizing: border-box;
+}
+
+body {
+    background: url("../images/marvel1.jpg");
+    background-size: cover;
+}
+
+.jumbotron {
+    background-color: #1818bd;
+}
+
+h1 {
+    font-family: 'Carter One', cursive;
+    color: yellow;
+    text-align: center;
+    font-size: 100px;
+}
+
+h3, #add-marvel {
+    color: yellow;
+}
+
+#marvel-form {
+    text-align: center;
+}
+
+#add-marvel {
+    background-color: blue;
+}
